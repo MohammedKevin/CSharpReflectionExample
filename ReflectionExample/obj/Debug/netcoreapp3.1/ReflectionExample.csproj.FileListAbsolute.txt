@@ -1,0 +1,13 @@
+D:\Schule\5\Prog\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp3.1\ReflectionExample.exe
+D:\Schule\5\Prog\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp3.1\ReflectionExample.deps.json
+D:\Schule\5\Prog\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp3.1\ReflectionExample.runtimeconfig.json
+D:\Schule\5\Prog\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp3.1\ReflectionExample.runtimeconfig.dev.json
+D:\Schule\5\Prog\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp3.1\ReflectionExample.dll
+D:\Schule\5\Prog\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp3.1\ReflectionExample.pdb
+D:\Schule\5\Prog\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.csprojAssemblyReference.cache
+D:\Schule\5\Prog\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.AssemblyInfoInputs.cache
+D:\Schule\5\Prog\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.AssemblyInfo.cs
+D:\Schule\5\Prog\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.csproj.CoreCompileInputs.cache
+D:\Schule\5\Prog\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.dll
+D:\Schule\5\Prog\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.pdb
+D:\Schule\5\Prog\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp3.1\ReflectionExample.genruntimeconfig.cache
